@@ -21,5 +21,17 @@ The notebook is set right now to use an open source dataset and embedding model,
 The notebook is set to use a triplet dataset with columns (anchor, positive, negative) with these names and in that order. If a different format of a dataset needs to be used, this will require more changes to the code.
 
 ### Results
+#### Validation Dataset (No Adapter)
+![closed_valid](https://github.com/user-attachments/assets/2a476d54-599d-4368-9425-43b33f2fbbe8)
 
+#### Test Dataset (No Adapter)
+![closed_test](https://github.com/user-attachments/assets/e8b52edb-38a1-424f-9f95-4c7fe6201a80)
 
+#### Validation Dataset (With Adapter, Not Trained)
+![untrained_adapter_valid](https://github.com/user-attachments/assets/ae90e574-9e74-4d49-8dda-bd5dc049e8ed)
+
+#### Test Dataset (With Adapter, Not Trained)
+![untrained_adapter_test](https://github.com/user-attachments/assets/bc6d15d8-02af-4701-a31d-a19467b6e6c4)
+
+#### Test Dataset (With Adapter, Trained)
+![trained_adapter_test](https://github.com/user-attachments/assets/33a36644-d727-4fb8-ba56-611a63b37e2c)
